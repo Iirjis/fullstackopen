@@ -1,0 +1,5 @@
+0.6 Uusi muistiinpano
+
+
+- selain lähettää lomakkeen datan sisältämän POST -pyynnön palvelimelle https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+- palvelin palauttaa vastauksena 201 -koodin ja viestin "note created"

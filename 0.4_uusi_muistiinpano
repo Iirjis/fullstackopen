@@ -1,0 +1,7 @@
+Osa 0.4 uusi muistiinpano
+
+
+- selain lähettää lomakkeen datan sisältämän POST -pyynnön palvelimelle https://studies.cs.helsinki.fi/exampleapp/new_note
+- palvelin palauttaa 302 koodin eli uudelleenohjauspyyntö
+- selain lähettää GET -pyynnön palvelimen vastauksessa 
+olevaan osoitteeseen https://studies.cs.helsinki.fi/exampleapp/notes 
